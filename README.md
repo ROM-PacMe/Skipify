@@ -7,6 +7,9 @@ SpotifySkip lets you enable tablet-only Spotify freemium features on mobile devi
 - On-demand songs
 - Disable shuffle mode
 
+## Future
+- Be Compatibility with 8.x Spotify Versions.
+
 ## Credits
 
 - <a href="http://forum.xda-developers.com/member.php?u=6799056">Piotr 'stirante' Brzozowski</a> for helping rewrite the whole module.
@@ -15,6 +18,8 @@ SpotifySkip lets you enable tablet-only Spotify freemium features on mobile devi
 ## License
 
 The whole project is licensed under the GNU GPLv2, which can be found in the LICENSE file.
+
+copyright = new Copyright (c) 2018 @ROM-PacMe.
 
 Copyright (C) 2016 Jani Andsten & Piotr Brzozowski
 
