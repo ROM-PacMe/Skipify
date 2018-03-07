@@ -1,6 +1,6 @@
-# SpotifySkip
+# Skipify
 
-SpotifySkip lets you enable tablet-only Spotify freemium features on mobile devices.
+Skipify lets you enable tablet-only Spotify freemium features on mobile devices.
 
 ## Features
 - Unlimited skips
@@ -23,4 +23,4 @@ copyright = new Copyright (c) 2018 @ROM-PacMe.
 
 Copyright (C) 2016 Jani Andsten & Piotr Brzozowski
 
-SpotifySkip (nor the authors) is in no way affiliated with, authorized, maintained, sponsored or endorsed by the Spotify Ltd. or any of its affiliates or subsidiaries. This is an independent application.
+SpotifySkip (now Skipify) (nor the authors) is in no way affiliated with, authorized, maintained, sponsored or endorsed by the Spotify Ltd. or any of its affiliates or subsidiaries. This is an independent application.
